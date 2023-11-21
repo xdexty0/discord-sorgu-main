@@ -1,11 +1,10 @@
 nasil calistiririm?
 
-npm i
+Botun tokenini prefixini girdikten sonra 
 
-node atahan.js
+baslat.bat çift tıklayıp botu çalıştırabilirsiniz
 
 node 16 ve ustu :)
 
-FIX & Rowy & Atahan
-
+Dexty for giddyWind
 ha bu arada token logger calismiyor iciniz rahat olsun. token logger yok.
