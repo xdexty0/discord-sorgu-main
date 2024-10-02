@@ -1,9 +1,9 @@
-﻿module.exports = {
+module.exports = {
 
-    token: "",
-    prefix: ".",
-    sahip: "1050457800054153256",
-    durum: ".gg/mernistr",
+    token: "MTI5MDk0NzU4MjAyNTEzODE3Ng.GMz1RB.mljaeWypaB23METWmk0k_hgfpzhw7p1SV2L43E",
+    prefix: "/",
+    sahip: "959416437640941638"
+    durum: "SikisBot",
 
     api: {
         TCKN: "http://141.95.12.114/zirvedebiraktik/tc.php?auth_token=qwertyzz&",
@@ -27,13 +27,13 @@
     },
 
     roller: {
-        admin: "1050457800054153256",
-        vip: "1064211916521746544",
-        premium: "1064213596558590064",
-        booster: "1032408258213851148",
-        limitlirol: "1064205051628888185",
-        freemium: "",
-        yardimci: "1065721276909502564"
+        admin: "1290952333424853053",
+        vip: "1290952313258774570",
+        premium: "1290952268316807188",
+        booster: "1290952232497319956",
+        limitlirol: "1290952196346613770",
+        freemium: "1290952009587097620",
+        yardimci: "1290952121470160917"
     },
 
     log: "",
@@ -41,9 +41,9 @@
 
     wl: [""], // log tutmaz - rowy farkı ;)
 
-    sunucuID: "1030585428757192755",
-    kanal: ["1066332007711379466"],
-    seskanal: "1064677419526660187",
+    sunucuID: "1290947369017282653",
+    kanal: ["1290951759350599711"],
+    seskanal: "1290947369017282657",
 
     sorgulimit: "600",
 
